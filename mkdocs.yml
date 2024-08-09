@@ -1,3 +1,5 @@
+mkdocs gh-deploy --force
+
 site_name: Carson's Sunset Cove
 theme:
   name: material
