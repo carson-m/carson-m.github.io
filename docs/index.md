@@ -4,7 +4,7 @@ Hi, I'm Carson.
 
 Sit down and watch the sunset with me—let's enjoy the view and chill for a bit.
 
-![image](https://github.com/carson-m/carson-m.github.io/blob/main/imgs/P1033096-Enhanced-NR-256K.jpg)
+![image](https://github.com/carson-m/carson-m.github.io/raw/main/imgs/P1033096-Enhanced-NR-256K.jpg)
 
 ## About Me
 
