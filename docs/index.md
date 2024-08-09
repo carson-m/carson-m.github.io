@@ -1,8 +1,8 @@
 # Home
 
 Hi, I'm Carson.
+
 Sit down and watch the sunset with me—let's enjoy the view and chill for a bit.
-<img src="C:\Users\Carson Ma\Pictures\P1033096-Enhanced-NR-3.jpg" style="zoom:30%;" />
 
 ## About Me
 
