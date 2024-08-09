@@ -1,0 +1,54 @@
+site_name: Carson's Sunset Cove
+theme:
+  name: material
+
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.path
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+
+  
+  icon:
+    logo: material/weather-sunset
+  
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: ocean
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to auto mode
+  
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/carson-m
+
+    - icon: material/email
+      link: mailto:<carsonma928@gmail.com>
+
+extra_css:
+- stylesheets/extra.css
