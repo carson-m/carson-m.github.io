@@ -1,8 +1,10 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hi, I'm Carson.
+Sit down and watch the sunset with me—let's enjoy the view and chill for a bit.
+<img src="C:\Users\Carson Ma\Pictures\P1033096-Enhanced-NR-3.jpg" style="zoom:30%;" />
 
-## Commands
+## About Me
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
