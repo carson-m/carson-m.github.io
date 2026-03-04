@@ -1,4 +1,10 @@
 site_name: Carson's Sunset Cove
+
+nav:
+  - Home: index.md
+  - Research Journal:
+    - Mar 3, 2026: Research Journal/Mar 3, 2026.md
+
 theme:
   name: material
 
